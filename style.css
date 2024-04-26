@@ -1,0 +1,21 @@
+footer{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main{
+    margin: 20px;
+    padding: 5px;
+    background-color: rgba(250, 235, 215, 0.336);
+}
+body{
+    background-image: url(autosw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(28, 52, 207);
+    
+}
+header{
+    margin: 15px;
+    border: 15px;
+}
